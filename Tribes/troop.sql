@@ -1,0 +1,11 @@
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (52, 10, 3, 50, 5, 1000, 2000, 1, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (53, 10, 3, 100, 6, 1000, 2000, 1, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (54, 10, 3, 50, 5, 1000, 2000, 1, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (51, 3, 3, 30, 3, 1000, 2000, 1, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (50, 3, 3, 30, 1, 1000, 2000, 1, null, true);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (28, 1, 1, 10, 1, 1200, 1260, 21, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (36, 5, 5, 50, 3, 1594583186, 1594583246, 21, null, true);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (34, 5, 5, 50, 5, 1594583126, 1594583186, 21, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (38, 5, 5, 50, 5, 1594583246, 1594583306, 21, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (40, 5, 5, 50, 3, 1594583306, 1594583366, 21, null, false);
+INSERT INTO public.troop (id, attack, defense, hp, level, started_at, finished_at, kingdom_id, army_id, is_in_army) VALUES (32, 5, 5, 50, 2, 1594583066, 1594583126, 21, null, false);

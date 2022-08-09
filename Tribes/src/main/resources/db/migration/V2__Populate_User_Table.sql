@@ -1,0 +1,1 @@
+INSERT INTO public.application_user (id, kingdom, name, password) VALUES ('529093c7-ae8a-447a-a3ce-03c5b8f1e4a8', 'bond', 'Bond', '1234');
